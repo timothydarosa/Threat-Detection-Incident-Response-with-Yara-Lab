@@ -1,4 +1,4 @@
-# Threat-Detection-Incident-Response-with-Yara-Lab
+# Simulated SOC Attack & Defense: EDR Home Lab
 
 **Cyber Attack/Defense home lab using Sliver, LimaCharlie [SIEM], & VM's to simulate C&C, Threat Detection, and classifying malware with YARA etc.   
 I did a demonstration on this home lab be sure to check it out on Youtube below.**   
