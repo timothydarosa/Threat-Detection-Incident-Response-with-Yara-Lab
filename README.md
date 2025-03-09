@@ -1,14 +1,14 @@
 # Threat-Detection-Incident-Response-with-Yara-Lab
 
 **Cyber Attack/Defense home lab using Sliver, LimaCharlie [SIEM], & VM's to simulate C&C, Threat Detection, and classifying malware with YARA etc.   
-I did a demonstration on this home lab be sure to check it out on Youtube below.   
-Thanks for Eric Capuano for putting this blog together it has tons of value...**
+I did a demonstration on this home lab be sure to check it out on Youtube below.**   
 ###
 **[Click to watch My Youtube Demonstration for this Lab](https://youtu.be/O-iN99pJXZM)**
 
 ## Project:
 The goal of this lab is to simulate an actual cyberattack and to detect and respond to endpoints. I'll be simulating the threat and victim machines using virtual machines, following Eric Capuano's online tutorial. 'Sliver' will be used as a C2 framework by the attack machine to target a Windows endpoint that is running 'LimaCharlie' as an EDR solution.
 
+Thanks for Eric Capuano for putting this blog together it has tons of value...   
 Eric Capuano's Guide: https://blog.ecapuano.com/p/so-you-want-to-be-a-soc-analyst-intro?utm_campaign=post&utm_medium=web
 
 ## Setup
